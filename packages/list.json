@@ -1,0 +1,14 @@
+[
+  {
+    "compName": "watermask",
+    "compZhName": "水印",
+    "compDesc": "水印",
+    "compClassName": "watermask"
+  },
+  {
+    "compName": "multipleBg",
+    "compZhName": "多背景",
+    "compDesc": "多背景",
+    "compClassName": "multipleBg"
+  }
+]
